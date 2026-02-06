@@ -1,0 +1,20 @@
+# Java project specific files to ignore
+
+# Compiled class files
+*.class
+
+# Directories for local Java class files
+**/target/
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sql
